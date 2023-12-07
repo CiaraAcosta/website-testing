@@ -29,6 +29,8 @@ permalink: pretty
 aux_links:
   bCourses:
     - 'https://bcourses.berkeley.edu/courses/1526813'
+  EdStem:
+    - 'https://edstem.org/us/courses/41881/discussion/'
   GitHub Repository:
     - 'https://github.com/CiaraAcosta/website-testing'
 footer_content:

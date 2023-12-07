@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+# Course Policies
 {:.no_toc}
 
 ## Table of contents

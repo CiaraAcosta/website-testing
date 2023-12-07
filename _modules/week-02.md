@@ -11,7 +11,6 @@ Aug 30
   :[Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%201?preview=86680614)
 
 Aug 31
-: **3**{: .label} Device I: DermaGraft
+: **3**{: .label} DermaGraft
   : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86709645)
-
-
+: _Device 1_
