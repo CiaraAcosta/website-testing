@@ -1,23 +1,17 @@
 ---
-title: Basic Data Structures
+title: Week 2
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Aug 29
+: **2**{: .label} Introduction II
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86689990)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Aug 30
+: **Section 1**{: .label .label-green}
+  :[Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%201?preview=86680614)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Aug 31
+: **3**{: .label} Device I: DermaGraft
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86709645)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
