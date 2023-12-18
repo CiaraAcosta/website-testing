@@ -81,11 +81,6 @@ Assignments fall into a few different categories:
 | Category | Assignment | Points | Percentage |
 |:---------|:-----------|:-------|:-----------|
 | Homework | Module quizzes | 120 | 40% |
-| Discussion | Journal article summary assignment  | 30 | 10% |
-| Discussion | Attendance  | 30 | 10% |
-| Final Project | Final Project presentation  | 30 | 10% |
-| Final Project | Final Project paper  | 70 | 23.3% |
-| Final Project | Final Project reflective activities  | 20 | 6.7% |
 
 This model gives you more authority over your workflow than weekly assignments do, but with that comes the responsibility to keep up with the material. If you wait until the last week to attempt to complete a month’s worth of work, you will find it difficult to get all the help that you need in the time remaining. That’s on you.
 
