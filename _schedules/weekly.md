@@ -29,10 +29,6 @@ schedule:
         start: 4:00 PM
         end: 5:00 PM
         location: Hildebrand B51
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Tuesday
     events:
       - name: Lecture
@@ -53,10 +49,6 @@ schedule:
         start: 5:00 PM
         end: 6:00 PM
         location: Etcheverry 3119
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Thursday
     events:
       - name: Lecture
@@ -81,8 +73,4 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: Stanley 179
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
 ---
