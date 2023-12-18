@@ -1,6 +1,6 @@
 ---
 name: Rabia Ali
-role: GSI
+role: Teaching Assistant
 email: rabia_ali+bioe10@berkeley.edu
 photo: kevin.jpg
 ---

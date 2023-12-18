@@ -9,7 +9,7 @@ Sep 19
 
 Sep 20
 : **Section 4**{: .label .label-green}
-  :[Slides](#)
+[Slides](#)
 
 Sep 21
 : **9**{: .label} Clinical Data & Statistics

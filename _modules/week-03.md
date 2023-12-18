@@ -9,7 +9,7 @@ Sep 5
 
 Sep 6
 : **Section 2**{: .label .label-green}
-  :[Slides](#)
+[Slides](#)
 
 Sep 7
 : **5**{: .label} Diffusion of Oxygen

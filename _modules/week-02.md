@@ -8,7 +8,7 @@ Aug 29
 
 Aug 30
 : **Section 1**{: .label .label-green}
-  :[Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%201?preview=86680614)
+[Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%201?preview=86680614)
 
 Aug 31
 : **3**{: .label} DermaGraft

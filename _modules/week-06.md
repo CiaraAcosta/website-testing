@@ -9,7 +9,7 @@ Sep 26
 
 Sep 27
 : **Section 5**{: .label .label-green}
-  :[Slides](#)
+[Slides](#)
 
 Sep 28
 : **11**{: .label} Diagnostics II

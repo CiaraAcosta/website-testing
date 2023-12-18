@@ -1,6 +1,6 @@
 ---
 name: Leo Lou
-role: GSI
+role: Teaching Assistant
 email: taolou+bioe10@berkeley.edu
 photo: kevin.jpg
 ---

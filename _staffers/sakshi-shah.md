@@ -1,6 +1,6 @@
 ---
 name: Sakshi Shah
-role: GSI
+role: Teaching Assistant
 email: sakshi_shah+bioe10@berkeley.edu
 photo: kevin.jpg
 ---

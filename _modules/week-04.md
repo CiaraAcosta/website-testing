@@ -10,7 +10,7 @@ Sep 12
 
 Sep 13
 : **Section 3**{: .label .label-green}
-  :[Slides](#)
+[Slides](#)
 
 Sep 14
 : **7**{: .label} FDA, Clinical Trials & Statistics I
