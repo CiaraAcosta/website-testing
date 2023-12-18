@@ -55,7 +55,7 @@ A total of 300 points can be earned in BioE 10. The final grading is not curved,
 as follows.
 
 | Grade | Score |
-| --- | --- |
+|:------|:------|
 | A | 270 |
 | A- | 260 |
 | B+ | 250 |
@@ -79,7 +79,7 @@ Assignments fall into a few different categories:
 
 ### Grading Breakdown
 | Category | Assignment | Points | Percentage |
-| --- | --- | --- | --- |
+|:---------|:-----------|:-------|:-----------|
 | Homework | Module quizzes | 120 | 40% |
 | Discussion | Journal article summary assignment  | 30 | 10% |
 | Discussion | Attendance  | 30 | 10% |
