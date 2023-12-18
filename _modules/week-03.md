@@ -13,5 +13,5 @@ Sep 5
 
 Sep 7
 : **5**{: .label} Device 1, Diffusion 1
-  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86883320)
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86883320) &#8226; [Annotated Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86770007)
 : _Device 1_
