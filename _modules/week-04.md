@@ -3,8 +3,8 @@ title: Week 4
 ---
 
 Sep 11
-: **Section 3**{: .label .label-green}
-[Slides](#)
+: **Section 3**{: .label .label-green} Healy Paper
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%203?preview=86886780)
 
 Sep 12
 : **6**{: .label} Device 1, Diffusion 2

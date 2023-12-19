@@ -3,8 +3,8 @@ title: Week 6
 ---
 
 Sep 24
-: **Section 5**{: .label .label-green}
-[Slides](#)
+: **Section 5**{: .label .label-green} Journal Article Assignment
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%205?preview=86985093)
 : **Article Summary**{: .label .label-yellow} [Paper Selection](https://bcourses.berkeley.edu/courses/1526813/assignments/8655637) (Due 9/29)
 
 Sep 26

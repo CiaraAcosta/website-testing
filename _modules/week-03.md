@@ -3,8 +3,9 @@ title: Week 3
 ---
 
 Sep 4
-: **Section 2**{: .label .label-green}
-[Slides](#)
+: **Section 2**{: .label .label-green} BioE 10
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%202?preview=86746872)
+  : [Article](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%202?preview=86745202)
 
 Sep 5
 : **4**{: .label} Compartmental Models

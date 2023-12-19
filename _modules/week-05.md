@@ -3,8 +3,9 @@ title: Week 5
 ---
 
 Sep 18
-: **Section 4**{: .label .label-green}
-[Slides](#)
+: **Section 4**{: .label .label-green} Dermagraft
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%204?preview=86910259)
+  : [Worksheet](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%204?preview=86909543)
 
 Sep 19
 : **8**{: .label} FDA Approval of Dermagraft
