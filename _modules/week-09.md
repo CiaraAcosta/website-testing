@@ -5,7 +5,7 @@ title: Week 9
 Oct 16
 : **Section 8**{: .label .label-green}
 [Slides](#)
-: **Article Summary**{: .label .label-orange} [Final Draft](https://bcourses.berkeley.edu/courses/1526813/assignments/8610402) (Due 10/27)
+: **Article Summary**{: .label .label-yellow} [Final Draft](https://bcourses.berkeley.edu/courses/1526813/assignments/8610402) (Due 10/27)
 
 Oct 17
 : **16**{: .label} Getting Data
