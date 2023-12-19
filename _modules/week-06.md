@@ -5,6 +5,7 @@ title: Week 6
 Sep 24
 : **Section 5**{: .label .label-green}
 [Slides](#)
+: **Article Summary**{: .label .label-orange} [Paper Selection](https://bcourses.berkeley.edu/courses/1526813/assignments/8655637) (Due 9/29)
 
 Sep 26
 : **10**{: .label} Biomolecules & Cells

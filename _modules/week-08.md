@@ -5,6 +5,7 @@ title: Week 8
 Oct 9
 : **Section 7**{: .label .label-green}
 [Slides](#)
+: **Article Summary**{: .label .label-orange} [Peer Feedback](https://bcourses.berkeley.edu/courses/1526813/assignments/8610404) (Due 10/13)
 
 Oct 10
 : **14**{: .label} Intellectual Property
