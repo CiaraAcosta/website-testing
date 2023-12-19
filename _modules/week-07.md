@@ -5,6 +5,7 @@ title: Week 7
 Oct 2
 : **Section 6**{: .label .label-green}
 [Slides](#)
+: **Article Summary**{: .label .label-yellow} [Rough Draft](https://bcourses.berkeley.edu/courses/1526813/assignments/8610403) (Due 10/8)
 
 Oct 3
 : **12**{: .label} Antibodies & Capillary Flow
