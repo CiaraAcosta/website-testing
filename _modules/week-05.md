@@ -15,3 +15,7 @@ Sep 21
 : **9**{: .label} Clinical Data & Statistics
   : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86918328)
 : _Device 1_
+
+Quizzes
+: **Module 2 Quiz**{: .label .label-red} [Intellectual Property](https://bcourses.berkeley.edu/courses/1526813/assignments/8610391) (Due 10/20)
+: **Module 2 Quiz**{: .label .label-red} [Lateral Flow Assay Design](https://bcourses.berkeley.edu/courses/1526813/assignments/8610390) (Due 10/20)

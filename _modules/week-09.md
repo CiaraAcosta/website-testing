@@ -15,3 +15,7 @@ Oct 19
 : **17**{: .label} Developing a Product
   : [Slides](#)
 : _Device 4_
+
+Quizzes
+: **Module 3 Quiz**{: .label .label-red} [Bernoulli](https://bcourses.berkeley.edu/courses/1526813/assignments/8610392) (Due 11/17)
+: **Module 3 Quiz**{: .label .label-red} [Computational Image Analysis](https://bcourses.berkeley.edu/courses/1526813/assignments/8610393) (Due 11/17)
