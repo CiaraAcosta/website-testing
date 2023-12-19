@@ -8,7 +8,7 @@ Nov 27
 
 Nov 28
 : **26**{: .label} Enzyme Kinetics
-  : [Slides](#)
+  : [Slides](#) &#8226; [Written Notes](#)
 : _Device 4_
 
 Nov 30

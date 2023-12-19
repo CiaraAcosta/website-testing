@@ -9,6 +9,9 @@ Aug 28
 Aug 29
 : **2**{: .label} Introduction II
   : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86689990)
+**Module 1 Quiz**{: .label .label-red} [Alcohol Compartmental Model](https://bcourses.berkeley.edu/courses/1526813/assignments/8610388) (Due 9/29)
+**Module 1 Quiz**{: .label .label-red} [Engineered Tissue Design & Tumor Size Analysis](https://bcourses.berkeley.edu/courses/1526813/assignments/8610389) (Due 9/29)
+**Module 1 Quiz**{: .label .label-red} [Hypothesis Testing](https://bcourses.berkeley.edu/courses/1526813/assignments/8610396) (Due 9/29)
 
 Aug 31
 : **3**{: .label} Device 1
