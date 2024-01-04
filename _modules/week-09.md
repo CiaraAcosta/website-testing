@@ -4,7 +4,7 @@ title: Week 9
 
 Oct 16
 : **Section 8**{: .label .label-green} Discussion
-  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%209?preview=87268135)
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%208?preview=87203668)
 : **Article Summary**{: .label .label-yellow} [Final Draft](https://bcourses.berkeley.edu/courses/1526813/assignments/8610402) (Due 10/27)
 
 Oct 17
