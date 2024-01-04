@@ -11,7 +11,7 @@ Aug 29
   : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86689990)
 
 Aug 31
-: **3**{: .label} Device 1
+: **3**{: .label} Dermagraft
   : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=86709645)
 : _Device 1_
 

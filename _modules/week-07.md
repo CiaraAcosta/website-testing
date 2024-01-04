@@ -3,8 +3,8 @@ title: Week 7
 ---
 
 Oct 2
-: **Section 6**{: .label .label-green}
-[Slides](#)
+: **Section 6**{: .label .label-green} Discussion
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Discussions/Week%207?preview=87146266)
 : **Article Summary**{: .label .label-yellow} [Rough Draft](https://bcourses.berkeley.edu/courses/1526813/assignments/8610403) (Due 10/8)
 
 Oct 3

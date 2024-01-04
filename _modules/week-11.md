@@ -2,18 +2,14 @@
 title: Week 11
 ---
 
-Oct 30
-: **Section 10**{: .label .label-green}
-[Slides](#)
-
 Oct 31
-: **20**{: .label} Synthetic Biology
-  : [Slides](#)
+: **20**{: .label} Synthetic Biology I
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=87329700)
 : _Device 4_
 
 Nov 2
 : **21**{: .label} Synthetic Biology II
-  : [Slides](#)
+  : [Slides](https://bcourses.berkeley.edu/courses/1526813/files/folder/Lectures?preview=87381411)
 : _Device 4_
 
 Quizzes
